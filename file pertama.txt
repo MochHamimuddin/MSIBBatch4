@@ -1,0 +1,10 @@
+Rincian materi kampus merderka batch 4
+-html dan css
+-JavaScript
+-Github
+-php 
+-mysql
+
+implementasi adding (git add)
+menandai file yang disebut commit (git commit)
+setelah itu commit new file disebut push (git push)
